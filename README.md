@@ -25,43 +25,33 @@ Users can securely register, log in, manage tasks, and store data in the cloud �
 
 ---
 
-### 🖼️ App Screenshots
+## 🖼️ App Screenshots
 
-#### 🏠 Home Page
-![](screenshots/1_home_page.jpg)
+<table>
+<tr>
+<td><img src="screenshots/1_home_page.jpg" width="250"><br><b>🏠 Home Page</b></td>
+<td><img src="screenshots/2_after_registering.jpg" width="250"><br><b>📝 After Registering</b></td>
+<td><img src="screenshots/3_logout_option.jpg" width="250"><br><b>👤 Logout Option</b></td>
+</tr>
 
-#### 📝 After Registering
-![](screenshots/2_after_registering.jpg)
+<tr>
+<td><img src="screenshots/4_logged_out_successfully.jpg" width="250"><br><b>🚪 Logged Out</b></td>
+<td><img src="screenshots/5_after_login.jpg" width="250"><br><b>🔐 After Login</b></td>
+<td><img src="screenshots/6_add_task_clicked.jpg" width="250"><br><b>➕ Add Task Clicked</b></td>
+</tr>
 
-#### 👤 Logout Option (Profile Menu)
-![](screenshots/3_logout_option.jpg)
+<tr>
+<td><img src="screenshots/7_task_saved_message.jpg" width="250"><br><b>💾 Task Saved</b></td>
+<td><img src="screenshots/8_task_options_edit_delete_mark.jpg" width="250"><br><b>🗂️ Task Options</b></td>
+<td><img src="screenshots/9_marked_complete.jpg" width="250"><br><b>✅ Marked Complete</b></td>
+</tr>
 
-#### 🚪 Logged Out Successfully
-![](screenshots/4_logged_out_successfully.jpg)
-
-#### 🔐 After Login
-![](screenshots/5_after_login.jpg)
-
-#### ➕ Add Task Clicked
-![](screenshots/6_add_task_clicked.jpg)
-
-#### 💾 Task Saved Message
-![](screenshots/7_task_saved_message.jpg)
-
-#### 🗂️ Saved Task Options (Edit / Delete / Mark Complete)
-![](screenshots/8_task_options_edit_delete_mark.jpg)
-
-#### ✅ Task Marked Complete
-![](screenshots/9_marked_complete.jpg)
-
-#### 🗄️ Back4App Dashboard – Tasks
-![](screenshots/back4app_dashboard_tasks.png)
-
-#### 👥 Back4App Dashboard – Users
-![](screenshots/back4app_dashboard_users.png)
-
-#### 🔄 After Refresh (Message Shown)
-![](screenshots/10_refresh_message.jpg)
+<tr>
+<td><img src="screenshots/back4app_dashboard_tasks.png" width="250"><br><b>🗄️ Back4App Tasks</b></td>
+<td><img src="screenshots/back4app_dashboard_users.png" width="250"><br><b>👥 Back4App Users</b></td>
+<td><img src="screenshots/10_refresh_message.jpg" width="250"><br><b>🔄 Refresh Message</b></td>
+</tr>
+</table>
 
 
 
