@@ -25,30 +25,45 @@ Users can securely register, log in, manage tasks, and store data in the cloud �
 
 ---
 
-## 📸 Screenshots
+### 🖼️ App Screenshots
 
-screenshots/1 Home Page.jpg
-screenshots/2 After Registering.jpg
-screenshots/3 Showing logout option Clicking profile.jpg
-screenshots/4 Logged out successfully.jpg
-screenshots/5 After login.jpg
-screenshots/6 After Clicking + Task icon.jpg
-screenshots/7 Msg after Task Saved.jpg
-screenshots/8 Saved Task Options - Edit,Delete,Mark.jpg
-screenshots/9 After marking complete.jpg
-screenshots/back4app dashboard tasks .png
-screenshots/back4app dashboard users.png
-screenshots/10 After clicking refresh - Message.jpg
-screenshots/task_list.png
-screenshots/task_form.png
-```
+#### 🏠 Home Page
+![](screenshots/1_home_page.jpg)
 
-|            Login           |            Task List           |            Task Form           |
-| :------------------------: | :----------------------------: | :----------------------------: |
-| ![](screenshots/login.png) | ![](screenshots/task_list.png) | ![](screenshots/task_form.png) |
+#### 📝 After Registering
+![](screenshots/2_after_registering.jpg)
 
-```
----
+#### 👤 Logout Option (Profile Menu)
+![](screenshots/3_logout_option.jpg)
+
+#### 🚪 Logged Out Successfully
+![](screenshots/4_logged_out_successfully.jpg)
+
+#### 🔐 After Login
+![](screenshots/5_after_login.jpg)
+
+#### ➕ Add Task Clicked
+![](screenshots/6_add_task_clicked.jpg)
+
+#### 💾 Task Saved Message
+![](screenshots/7_task_saved_message.jpg)
+
+#### 🗂️ Saved Task Options (Edit / Delete / Mark Complete)
+![](screenshots/8_task_options_edit_delete_mark.jpg)
+
+#### ✅ Task Marked Complete
+![](screenshots/9_marked_complete.jpg)
+
+#### 🗄️ Back4App Dashboard – Tasks
+![](screenshots/back4app_dashboard_tasks.png)
+
+#### 👥 Back4App Dashboard – Users
+![](screenshots/back4app_dashboard_users.png)
+
+#### 🔄 After Refresh (Message Shown)
+![](screenshots/10_refresh_message.jpg)
+
+
 
 ## 🚀 Run the App
 
