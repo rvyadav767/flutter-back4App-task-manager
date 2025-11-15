@@ -27,7 +27,18 @@ Users can securely register, log in, manage tasks, and store data in the cloud â
 
 ## ðŸ“¸ Screenshots
 
-screenshots/login.png
+screenshots/1 Home Page.jpg
+screenshots/2 After Registering.jpg
+screenshots/3 Showing logout option Clicking profile.jpg
+screenshots/4 Logged out successfully.jpg
+screenshots/5 After login.jpg
+screenshots/6 After Clicking + Task icon.jpg
+screenshots/7 Msg after Task Saved.jpg
+screenshots/8 Saved Task Options - Edit,Delete,Mark.jpg
+screenshots/9 After marking complete.jpg
+screenshots/back4app dashboard tasks .png
+screenshots/back4app dashboard users.png
+screenshots/10 After clicking refresh - Message.jpg
 screenshots/task_list.png
 screenshots/task_form.png
 ```
