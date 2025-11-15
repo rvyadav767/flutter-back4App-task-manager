@@ -1,6 +1,6 @@
 # 🌈 Flutter Task Manager App — Back4App (BaaS)
 
-A cloud-connected **Task Manager App** built with **Flutter** and **Back4App Parse Server**.
+A cloud-connected simple **Task Manager App** built with **Flutter** and **Back4App Parse Server**.
 Users can securely register, log in, manage tasks, and store data in the cloud ☁️✨
 
 ---
