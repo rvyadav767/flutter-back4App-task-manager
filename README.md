@@ -36,13 +36,14 @@ screenshots/task_form.png
 | :------------------------: | :----------------------------: | :----------------------------: |
 | ![](screenshots/login.png) | ![](screenshots/task_list.png) | ![](screenshots/task_form.png) |
 
+```
 ---
 
 ## 🚀 Run the App
 
 ```bash
 git clone https://github.com/yourusername/flutter-task-manager-back4app.git
-cd flutter-task-manager-back4app
+cd flutter-back4App-task-manager
 flutter pub get
 flutter run
 ```
@@ -79,8 +80,4 @@ APK output:
 **Ravi Kumar**
 *M.Tech (SS) BITS PILANI | Govt. Lecturer | Tech Enthusiast*
 
-⭐ *If you like this project, give it a star!*
-
----
-
-If you want, I can also give you a **very short (ultra-minimal)** version!
+⭐ *If you like this project, give it a star!
